@@ -28,3 +28,4 @@
 /workspaces/codespaces-blank/obj/Debug/net8.0/codespaces-blank.pdb
 /workspaces/codespaces-blank/obj/Debug/net8.0/codespaces-blank.genruntimeconfig.cache
 /workspaces/codespaces-blank/obj/Debug/net8.0/ref/codespaces-blank.dll
+/workspaces/codespaces-blank/obj/Debug/net8.0/codespaces-blank.sourcelink.json
